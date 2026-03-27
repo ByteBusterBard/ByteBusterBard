@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soumyadip Jana
 - 👀 I’m interested in building amazing projects and learn new technologies
-- 🌱 I’m currently learning Embedded Systems
+- 🌱 I’m currently learning VLSI
 - 📫 How to reach me - soumyatofficial@gmail.com  
 
 
